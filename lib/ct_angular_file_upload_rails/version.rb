@@ -1,3 +1,3 @@
 module CtAngularFileUploadRails
-  VERSION = "0.0.1"
+  VERSION = "1.4.0"
 end
