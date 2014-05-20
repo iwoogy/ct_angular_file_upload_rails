@@ -1,0 +1,10 @@
+---
+module:
+  name: "'angularFileUpload'"
+uis:
+  - name: $upload
+actions:
+  javascript:
+    include?: true
+  module:
+    include?: true
